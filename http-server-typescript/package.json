@@ -1,0 +1,27 @@
+{
+  "name": "http-server-typescript",
+  "title": "HTTP Server TypeScript",
+  "description": "A minimal HTTP Server TypeScript template for MahameruJS",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "mahameru dev:test",
+    "build": "mahameru build",
+    "start": "mahameru start",
+    "generate": "magma"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@mahameru/magma": "^0.0.5",
+    "mahameru": "^0.0.41"
+  },
+  "devDependencies": {
+    "@types/node": "^26.0.1",
+    "typescript": "^6.0.3"
+  },
+  "allowScripts": {
+    "@mahameru/diatrema": true,
+    "@mahameru/magma": true,
+    "mahameru": true
+  }
+}
