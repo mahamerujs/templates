@@ -8,7 +8,7 @@
     "dev": "mahameru dev:test",
     "build": "mahameru build",
     "start": "mahameru start",
-    "generate": "magma"
+    "magma": "magma"
   },
   "license": "ISC",
   "dependencies": {
