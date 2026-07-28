@@ -12,8 +12,8 @@
   },
   "license": "ISC",
   "dependencies": {
-    "@mahameru/magma": "^0.0.15",
-    "mahameru": "^0.0.47"
+    "@mahameru/magma": "^0.0.16",
+    "mahameru": "^0.0.48"
   },
   "devDependencies": {
     "@types/node": "^26.0.1",
